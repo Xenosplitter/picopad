@@ -1,2 +1,4 @@
-# keypad
-Code for a Pi Pico HID to provide additional keys not otherwise available on my keyboard per button pressed. Similar to a macropad.
+# Keypad
+
+Code to turn my Raspberry Pi Pico into a macropad. Intended to send keycodes that don't already correspond to existing keys on standard US keyboards to allow for additional buttons for uses like keybinds without needing to worry about multi-button macros.
+
